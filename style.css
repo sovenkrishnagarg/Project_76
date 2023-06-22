@@ -1,0 +1,18 @@
+img {
+    height: 300px;
+    width: 60%;
+}
+
+body {
+    text-align: center;
+    background-color: aquamarine
+}
+
+p {
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+h3{
+    text-decoration-color: blue
+}
